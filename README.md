@@ -29,4 +29,9 @@ python -m venv .venv
 
 Repository: https://github.com/armaan-patel/Color-Coding-Windows-Folders.git
 
-License: MIT (customize as needed)
+# Author:
+Armaan Patel
+B.S. Computer Science, DeSales University
+Incoming NYU Stern MBA
+
+License: MIT
