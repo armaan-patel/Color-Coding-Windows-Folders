@@ -1,0 +1,29 @@
+Folder: c:\Users\apatel\OneDrive - Eastern Engineered Wood Products\Desktop\AI Capabilities Testing Ground\Color Code Folders\colorizer\test_output\test_4444ff
+[.ShellClassInfo]
+IconFile=icon_4444ff.ico
+IconIndex=0
+
+
+Folder: c:\Users\apatel\OneDrive - Eastern Engineered Wood Products\Desktop\AI Capabilities Testing Ground\Color Code Folders\colorizer\test_output\test_44ff44
+[.ShellClassInfo]
+IconFile=icon_44ff44.ico
+IconIndex=0
+
+
+Folder: c:\Users\apatel\OneDrive - Eastern Engineered Wood Products\Desktop\AI Capabilities Testing Ground\Color Code Folders\colorizer\test_output\test_ff4444
+[.ShellClassInfo]
+IconFile=icon_ff4444.ico
+IconIndex=0
+
+
+Folder: c:\Users\apatel\OneDrive - Eastern Engineered Wood Products\Desktop\AI Capabilities Testing Ground\Color Code Folders\colorizer\test_output\test_orange
+[.ShellClassInfo]
+IconFile=icon_orange.ico
+IconIndex=0
+
+
+Folder: c:\Users\apatel\OneDrive - Eastern Engineered Wood Products\Desktop\AI Capabilities Testing Ground\Color Code Folders\colorizer\test_output\test_purple
+[.ShellClassInfo]
+IconFile=icon_purple.ico
+IconIndex=0
+

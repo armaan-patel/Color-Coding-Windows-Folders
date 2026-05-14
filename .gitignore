@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+
+# Editor
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln
+
+# Mac
+.DS_Store
+
+# Test outputs and artifacts
+colorizer/test_output*/
+colorizer/*.ico
+colorizer/*.lnk
